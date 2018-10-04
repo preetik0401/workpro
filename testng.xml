@@ -1,0 +1,7 @@
+<suite name="supportSearch">
+ <test name="testngTest">
+ <classes>
+ <class name="com.supportSearch.support_search.SupportSearch" />
+ </classes>
+ </test>
+</suite>
